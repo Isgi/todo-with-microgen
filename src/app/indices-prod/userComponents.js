@@ -1,0 +1,2 @@
+
+export default {'usr':{'atom':{'AppBar':require('usr/atom/AppBar.comp').default,'IconButton':require('usr/atom/IconButton.comp').default,'PageRouteAnchor':require('usr/atom/PageRouteAnchor.comp').default,'SvgIcon':require('usr/atom/SvgIcon.comp').default,},'layout':{'Container':require('usr/layout/Container.comp').default,'Grid':require('usr/layout/Grid.comp').default,'List':require('usr/layout/List.comp').default,'PageFrameWithActionButton':require('usr/layout/PageFrameWithActionButton.comp').default,},},};
